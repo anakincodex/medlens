@@ -1,10 +1,10 @@
 "use client";
 
 import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useRef, useState } from "react";
+import { Suspense, useEffect, useRef, useState } from "react";
 import type { ProcessResponse } from "@/types";
 
-export default function UploadPage() {
+function UploadPageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [files, setFiles] = useState<File[]>([]);
@@ -224,5 +224,13 @@ export default function UploadPage() {
         </form>
       </div>
     </main>
+  );
+}
+
+export default function UploadPage() {
+  return (
+    <Suspense fallback={<main className="min-h-[calc(100vh-57px)] bg-[#F8FAFC]" />}>
+      <UploadPageContent />
+    </Suspense>
   );
 }
