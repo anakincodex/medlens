@@ -28,14 +28,29 @@ export function Navbar() {
       return;
     }
 
-    const supabase = createClient();
+    let supabase;
+    try {
+      supabase = createClient();
+    } catch {
+      setIsAuthenticated(false);
+      setLoading(false);
+      return;
+    }
+
     let mounted = true;
 
-    supabase.auth.getUser().then(({ data }) => {
-      if (!mounted) return;
-      setIsAuthenticated(Boolean(data.user));
-      setLoading(false);
-    });
+    supabase.auth
+      .getUser()
+      .then(({ data }) => {
+        if (!mounted) return;
+        setIsAuthenticated(Boolean(data.user));
+        setLoading(false);
+      })
+      .catch(() => {
+        if (!mounted) return;
+        setIsAuthenticated(false);
+        setLoading(false);
+      });
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_, session) => {
       setIsAuthenticated(Boolean(session?.user));
@@ -49,8 +64,12 @@ export function Navbar() {
   }, [pathname]);
 
   const handleLogout = async () => {
-    const supabase = createClient();
-    await supabase.auth.signOut();
+    try {
+      const supabase = createClient();
+      await supabase.auth.signOut();
+    } catch {
+      // Ignore logout errors and still return user to login page.
+    }
     router.push("/login?message=You%20have%20been%20logged%20out%20successfully.&variant=success");
   };
 
