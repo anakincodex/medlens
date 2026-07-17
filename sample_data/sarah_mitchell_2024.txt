@@ -1,0 +1,24 @@
+Patient: Sarah Mitchell, Age 41
+Date: May 2024
+Visit Type: Annual Physical Exam
+
+Vitals:
+Blood Pressure: 130/84 mmHg
+Heart Rate: 76 bpm
+Weight: 76 kg
+
+Lab Results:
+Total Cholesterol: 198 mg/dL (normal)
+LDL Cholesterol: 118 mg/dL (normal)
+HDL Cholesterol: 46 mg/dL (low)
+Triglycerides: 175 mg/dL (borderline high)
+Fasting Glucose: 109 mg/dL (prediabetic range)
+HbA1c: 6.1% (prediabetic range)
+
+Diagnosis: Hyperlipidemia (improved on statin), Prediabetes (progressing - HbA1c increased from 5.8% to 6.1%), Hypertension - Stage 1 (new finding)
+
+Medications: Atorvastatin 10mg once daily, Cetirizine 10mg as needed. Lisinopril 5mg once daily (newly started for blood pressure).
+
+Allergies: None reported.
+
+Notes: Cholesterol improved significantly on statin therapy - continue current dose. However, prediabetes has progressed (HbA1c 5.8% -> 6.1%) despite nutritionist referral last year; patient reports she did not attend nutrition appointments. Blood pressure now meets criteria for Stage 1 hypertension - started on low-dose ACE inhibitor. Thyroid panel (TSH/free T4) from last year's recommendation was NOT repeated - last TSH was 4.8 mIU/L (elevated) in 2023, no follow-up testing done. Recommend repeating thyroid function tests at next visit. Weight continues to trend upward (+8kg from 2021 baseline).

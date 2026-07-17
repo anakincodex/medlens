@@ -1,0 +1,24 @@
+Patient: Sarah Mitchell, Age 38
+Date: February 2021
+Visit Type: Annual Physical Exam
+
+Vitals:
+Blood Pressure: 118/76 mmHg
+Heart Rate: 72 bpm
+Weight: 68 kg
+
+Lab Results:
+Total Cholesterol: 195 mg/dL (normal)
+LDL Cholesterol: 110 mg/dL (normal)
+HDL Cholesterol: 52 mg/dL (normal)
+Triglycerides: 130 mg/dL (normal)
+Fasting Glucose: 91 mg/dL (normal)
+TSH: 2.1 mIU/L (normal)
+
+Diagnosis: No significant findings. Patient reports occasional seasonal allergies.
+
+Medications: Cetirizine 10mg as needed for allergy symptoms.
+
+Allergies: None reported.
+
+Notes: Patient advised to continue current diet and exercise routine. Recommended follow-up bloodwork in 12 months.

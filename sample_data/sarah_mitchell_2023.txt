@@ -1,0 +1,25 @@
+Patient: Sarah Mitchell, Age 40
+Date: April 2023
+Visit Type: Follow-up - Lipid Panel Recheck
+
+Vitals:
+Blood Pressure: 128/82 mmHg
+Heart Rate: 78 bpm
+Weight: 74 kg
+
+Lab Results:
+Total Cholesterol: 242 mg/dL (high)
+LDL Cholesterol: 158 mg/dL (high)
+HDL Cholesterol: 44 mg/dL (low)
+Triglycerides: 190 mg/dL (high)
+Fasting Glucose: 101 mg/dL (prediabetic range)
+TSH: 4.8 mIU/L (elevated)
+HbA1c: 5.8% (normal, upper end)
+
+Diagnosis: Hyperlipidemia, Prediabetes (impaired fasting glucose), Subclinical hypothyroidism (elevated TSH - recommend repeat in 6-8 weeks to confirm)
+
+Medications: Atorvastatin 10mg once daily (newly started), Cetirizine 10mg as needed.
+
+Allergies: None reported.
+
+Notes: Lipid panel has worsened over two consecutive years. Starting statin therapy. Elevated TSH noted - free T4 was not ordered this visit; recommend repeating thyroid panel including free T4 at next visit to rule out hypothyroidism. Patient counseled on prediabetes risk and referred to nutritionist. Continued weight gain trend (now +6kg from 2021 baseline).

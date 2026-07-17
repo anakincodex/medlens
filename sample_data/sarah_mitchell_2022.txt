@@ -1,0 +1,24 @@
+Patient: Sarah Mitchell, Age 39
+Date: March 2022
+Visit Type: Annual Physical Exam
+
+Vitals:
+Blood Pressure: 124/80 mmHg
+Heart Rate: 75 bpm
+Weight: 71 kg
+
+Lab Results:
+Total Cholesterol: 218 mg/dL (borderline high)
+LDL Cholesterol: 132 mg/dL (borderline high)
+HDL Cholesterol: 48 mg/dL (normal)
+Triglycerides: 158 mg/dL (borderline high)
+Fasting Glucose: 96 mg/dL (normal)
+TSH: 2.4 mIU/L (normal)
+
+Diagnosis: Borderline hyperlipidemia. No diabetes.
+
+Medications: Cetirizine 10mg as needed for allergy symptoms.
+
+Allergies: None reported.
+
+Notes: Weight gain of 3 kg since last visit. Discussed dietary changes - reduce saturated fat intake, increase physical activity. Will recheck lipid panel in 6-12 months. Patient mentioned increased work stress and irregular sleep schedule.
