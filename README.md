@@ -10,8 +10,7 @@ summary — all in under a minute.
 ## 🚀 Live Demo
 👉 [Try MedLens AI](https://medlens-ai-next-m6mi.vercel.app/login)
 
-This is a **Next.js 15 (App Router) port** of the original FastAPI backend at
-[`sunraycodes/medlens-ai`](https://github.com/sunraycodes/medlens-ai/tree/main/backend).
+
 All backend logic (extraction, analysis, trends, knowledge graph, RAG Q&A,
 PDF export) now runs as Next.js API routes — no separate Python server
 required.
